@@ -1,0 +1,25 @@
+{
+  "name": "hha-webhook",
+  "version": "1.0.0",
+  "description": "hha-webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "vantrong291",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "cookie-parser": "^1.4.4",
+    "cron": "^1.7.1",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "firebase": "^6.1.0",
+    "html-to-text": "^5.1.1",
+    "query-string": "^6.7.0",
+    "request": "^2.88.0"
+  }
+}

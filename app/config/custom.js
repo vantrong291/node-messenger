@@ -1,0 +1,9 @@
+const APP_SECRET = '';
+const VERIFY_TOKEN = '';
+const PAGE_ACCESS_TOKEN = '';
+
+module.exports = {
+    APP_SECRET: APP_SECRET,
+    VERIFY_TOKEN: VERIFY_TOKEN,
+    PAGE_ACCESS_TOKEN: PAGE_ACCESS_TOKEN,
+};
