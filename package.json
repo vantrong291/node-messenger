@@ -10,7 +10,7 @@
   "author": "vantrong291",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "config": "^3.1.0",
     "cookie-parser": "^1.4.4",
